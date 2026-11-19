@@ -112,7 +112,9 @@ Model regresi berbasis *Random Forest* berhasil memetakan estimasi spasial kerap
    ```python
    ee.Initialize(project='project-id-anda')
 Eksekusi: Jalankan setiap sel secara berurutan mulai dari CELL 1 hingga CELL 14.
+
 Output: Hasil pemodelan berupa file model .pkl dan raster akhir .tif akan otomatis tersimpan di folder Google Drive Anda pada path /content/gdrive/MyDrive/Praktek_diniyrti/Praktek_Regresi_RF.
+
 Referensi
 GEDI L4B Dataset: Dubayah, R., et al. (2022). GEDI L4B Footprint Aboveground Biomass Density, Version 2.
 Google Satellite Embedding Dataset Documentation.
